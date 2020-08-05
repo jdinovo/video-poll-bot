@@ -13,9 +13,13 @@ A discord bot that allows users to vote on videos posted in a server.
 4. 
     1. Run `npm install` to install dependencies
 
-    2. Run `docker build video-bot .` to build the docker container
+        OR
+
+    2. Run `docker build -t videobot .` to build the docker container
 
 5. 
     1. Run `node .` to run the bot
 
-    2. Run `docker start -d video-bot` to run the docker container
+        OR
+
+    2. Run `docker run --restart=always -d videobot` to run the docker container
