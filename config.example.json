@@ -1,0 +1,11 @@
+{
+	"prefix": "SET_PREFIX_HERE",
+	"token": "YOUR_TOKEN_HERE",
+	"ownerID": "BOT_OWNER_ID",
+	"upVoteID": "ID_FOR_UPVOTE_EMOJI",
+	"wotdChannelID": "ID_FOR_WEBM_OF_THE_DAY_CHANNEL",
+	"wotwChannelID": "ID_FOR_WEBM_OF_THE_WEEK_CHANNEL",
+	"dailyBestPostRoleID": "ID_FOR_DAILY_BEST_POST_ROLE",
+	"weeklyBestPostRoleID": "ID_FOR_WEEKLY_BEST_POST_ROLE"
+}
+
